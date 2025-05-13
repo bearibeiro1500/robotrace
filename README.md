@@ -1,9 +1,8 @@
-Faltei na aula, então criei o projeto sozinha em casa.
 
 Nome do Grupo/Projeto Fictício: RoboTrace
 
 Integrantes:
-Beatriz Thomaz Ribeiro (RM557819)
+Beatriz Thomaz Ribeiro (RM557819) e Henrique Amaral Muhlmann (RM555518)
 
 Objetivo do projeto:
 - Desenvolver uma API para monitoramento e rastreamento de robôs logísticos.
